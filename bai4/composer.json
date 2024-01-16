@@ -1,0 +1,14 @@
+{
+    "name": "bai4/lab2",
+    "description": "lab2-php2",
+    "type": "library",
+    "license": "",
+    "require": {},
+    
+    "autoload": {
+        "psr-4": {
+           "App\\": "app/"
+        }
+    
+}
+}
